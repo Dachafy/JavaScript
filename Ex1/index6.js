@@ -9,6 +9,6 @@ let flatNested = nested.flat(2);
 */
 flatNested.reverse();
 /*
-1. print the array 
+3. print the updated array
 */
 console.log(flatNested);
